@@ -1,0 +1,7 @@
+toonify
+toons
+pydantic
+tiktoken
+openai
+python-dotenv
+scipy
